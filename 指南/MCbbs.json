@@ -1,0 +1,10 @@
+{
+	"__Author__": "cdpyx",
+	"Title": "最大的MC中文论坛",
+	"Description": "MC bbs:最大的mc中文论坛，有着大量资源，可寻求帮助",
+	"Keywords": "我的世界论坛",
+	"Types": ["指南"],
+	"IsEvent": true,
+	"EventType": "打开网页",
+	"EventData": "https://mcbbs.net"
+}
