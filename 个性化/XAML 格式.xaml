@@ -220,6 +220,15 @@
     </StackPanel>
 </local:MyCard>
 
+<local:MyCard Title="主题" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                   Text="你可以登录爱发电，赞助龙猫获得内测版进行主题更改，在解锁5个后可以自定义" />
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                   Text="龙猫的爱发电：" EventType="打开网页" EventData="https://afdian.net/a/LTCat" />
+    </StackPanel>
+</local:MyCard>
+
 <!-- 
 
 全部通用的属性：
